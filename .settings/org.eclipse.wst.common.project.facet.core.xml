@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
-  <runtime name="JBoss EAP 7.0 Runtime"/>
+  <runtime name="App Engine Standard Runtime"/>
+  <secondary-runtime name="JBoss EAP 7.0 Runtime"/>
   <fixed facet="jst.web"/>
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="java"/>
@@ -11,4 +12,5 @@
   <installed facet="jst.cdi" version="1.2"/>
   <installed facet="jboss.m2" version="1.0"/>
   <installed facet="jst.jsf" version="2.2"/>
+  <installed facet="com.google.cloud.tools.eclipse.appengine.facets.standard" version="JRE8"/>
 </faceted-project>
